@@ -1,0 +1,98 @@
+body{
+	padding:0px;
+	background:gray;
+	margin:0px;
+
+}
+
+.navbar{
+	background:#ffca18;
+	width:100%;
+	overflow:hidden;
+}
+.navbar h1{
+	font-family:Copperplate Gothic Bold;
+	color:navy;
+	text-align:center;
+
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+}
+	
+.pagebody{
+	margin:10px;
+}
+
+.right a{
+	text-decoration:none;
+	font-family:Copperplate Gothic Bold;
+	color:navy;
+	display:inline-block;
+	padding:15px;
+	font-size:18px;
+}
+.right a:hover{
+	color:red;
+}
+.form-box{
+	background:white;
+	padding:20px;
+	margin:20px auto;
+	width:600px;
+	font-family:Copperplate Gothic Bold;
+}
+.input{
+	display:block;
+	border:1px solid gray;
+	padding:10px;
+	width:100%;
+	margin-bottom:20px;
+}
+.button{
+	background:black;
+	color:white;
+	padding:10px;
+	border:1px solid black;
+	cursor:pointer;
+}
+
+table{
+	width:100%;
+	border-collapse:collapse;
+}
+table th{
+	padding:7px;
+	background:black;
+	color:White;
+	border:1px solid black;
+}
+table td{
+	padding:7px;
+	color:black;
+	border:1px solid black;
+}
+.delete{
+	color:red;
+	text-align:center;
+	width:49%;
+	padding:10px;
+	display:inline-block;
+}
+.edit{
+	color:blue;
+	text-align:center;
+	padding:10px;
+	display:inline-block;
+}
+
+.footer{
+	background:WHITE;
+	height:40px;
+	width:100%;
+	font-family:Copperplate Gothic Bold;
+	
+}
